@@ -1,0 +1,20 @@
+Distributed Dictionary
+
+The server is implemented in Java - UDPServer.java and the Client is implemented in both java and python (UDPClient.java and UDPCient.py)
+
+
+Dictionary.java validates the word and gets the meaning from dictionary.txt
+
+To Run Server - 
+
+Copy Dictionary.java and UDPServer.java to any IDE (eclipse, IntelliJ etc..) and run UDPServer 
+
+Use java 1.8
+
+
+To Run Client
+
+Python UDPClient.py
+
+
+Note - type in "#" from client to end the session
