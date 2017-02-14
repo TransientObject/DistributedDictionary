@@ -1,3 +1,4 @@
+import javax.xml.crypto.Data;
 import java.io.*;
 import java.net.*;
 import java.lang.String;
@@ -5,6 +6,18 @@ import java.util.Scanner;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
+
+class WordAndPacket{
+    String word;
+    DatagramPacket  packet;
+
+    WordAndPacket(String word, DatagramPacket packet){
+        this.word = word;
+        this.packet = packet;
+    }
+
+}
 
 class UDPServerWorkPartitioning
 {
@@ -13,29 +26,11 @@ class UDPServerWorkPartitioning
         ExecutorService executor = Executors.newFixedThreadPool(5);
 
         while(true){
-            executor.execute(new ListenToClient(serverSocket, executor));
-        }
-    }
-}
-
-class ListenToClient implements Runnable{
-    DatagramSocket serverSocket;
-    ExecutorService executor;
-
-    ListenToClient(DatagramSocket serverSocket, ExecutorService executor){
-        this.serverSocket = serverSocket;
-        this.executor = executor;
-    }
-
-    public void run(){
-        try{
-            System.out.println("Starting to listen to new data");
-            byte[] receiveData = new byte[1024];
-            DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
-            serverSocket.receive(receivePacket);
-            String word = new String(receivePacket.getData(), 0, receivePacket.getLength());
-            System.out.println("Got new data - " + word);
-            if (word.equals("#")){
+            WordAndPacket wordAndPacket;
+            Callable<WordAndPacket> task = new ListenToClient(serverSocket, executor);
+            Future<WordAndPacket> future = executor.submit(task);
+            wordAndPacket = future.get();
+            if (wordAndPacket.word.equals("#")){
                 System.out.println("Client is closing the session. Bye\n");
                 executor.shutdown();
                 while (!executor.isTerminated()) {}
@@ -45,12 +40,36 @@ class ListenToClient implements Runnable{
             }
             else
             {
-                executor.execute(new ValidateAndFetchWord(word, serverSocket, receivePacket, executor));
+                System.out.println("recvd word"+wordAndPacket.word);
+                executor.execute(new ValidateAndFetchWord(wordAndPacket.word, serverSocket, wordAndPacket.packet, executor));
             }
+        }
+    }
+}
+
+class ListenToClient implements Callable{
+    DatagramSocket serverSocket;
+    ExecutorService executor;
+
+    ListenToClient(DatagramSocket serverSocket, ExecutorService executor){
+        this.serverSocket = serverSocket;
+        this.executor = executor;
+    }
+
+    public WordAndPacket call(){
+        try{
+            System.out.println("Starting to listen to new data");
+            byte[] receiveData = new byte[1024];
+            DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
+            serverSocket.receive(receivePacket);
+            String word = new String(receivePacket.getData(), 0, receivePacket.getLength());
+            System.out.println("Got new data - " + word);
+            return new WordAndPacket(word,receivePacket);
         }
         catch(Exception e){
             System.out.println("Exception caught : "+ e.getMessage());
         }
+        return null;
     }
 }
 
