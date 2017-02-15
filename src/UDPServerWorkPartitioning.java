@@ -19,29 +19,33 @@ class WordAndPacket{
 
 }
 
+class Constants{
+    static final int numThreads = 100;
+}
+
 class UDPServerWorkPartitioning
 {
     public static void main(String args[]) throws Exception {
         DatagramSocket serverSocket = new DatagramSocket(9876);
-        ExecutorService executor = Executors.newFixedThreadPool(5);
+        ExecutorService executor = Executors.newFixedThreadPool(Constants.numThreads);
+        PrintWriter writer = new PrintWriter("WorkPartitioning_log.txt", "UTF-8");
 
         while(true){
             WordAndPacket wordAndPacket;
-            Callable<WordAndPacket> task = new ListenToClient(serverSocket, executor);
+            Callable<WordAndPacket> task = new ListenToClient(serverSocket, executor, writer);
             Future<WordAndPacket> future = executor.submit(task);
             wordAndPacket = future.get();
             if (wordAndPacket.word.equals("#")){
-                System.out.println("Client is closing the session. Bye\n");
+                System.out.println("Client is closing the session\n");
                 executor.shutdown();
                 while (!executor.isTerminated()) {}
-                System.out.println("All threads have finished executing. Server closing session");
+                System.out.println("All threads have finished executing. Bye");
                 serverSocket.close();
                 System.exit(0);
             }
             else
             {
-                System.out.println("recvd word"+wordAndPacket.word);
-                executor.execute(new ValidateAndFetchWord(wordAndPacket.word, serverSocket, wordAndPacket.packet, executor));
+                executor.execute(new ValidateAndFetchWord(wordAndPacket.word, serverSocket, wordAndPacket.packet, executor, writer));
             }
         }
     }
@@ -50,20 +54,23 @@ class UDPServerWorkPartitioning
 class ListenToClient implements Callable{
     DatagramSocket serverSocket;
     ExecutorService executor;
+    PrintWriter writer;
 
-    ListenToClient(DatagramSocket serverSocket, ExecutorService executor){
+    ListenToClient(DatagramSocket serverSocket, ExecutorService executor, PrintWriter writer){
         this.serverSocket = serverSocket;
         this.executor = executor;
+        this.writer = writer;
     }
 
     public WordAndPacket call(){
         try{
-            System.out.println("Starting to listen to new data");
             byte[] receiveData = new byte[1024];
             DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
             serverSocket.receive(receivePacket);
             String word = new String(receivePacket.getData(), 0, receivePacket.getLength());
             System.out.println("Got new data - " + word);
+            long threadID = Thread.currentThread().getId() % Constants.numThreads + 1;
+            writer.println("Thread " + threadID + " - Received the word " + word + " from client");
             return new WordAndPacket(word,receivePacket);
         }
         catch(Exception e){
@@ -78,22 +85,26 @@ class ValidateAndFetchWord implements Runnable{
     DatagramPacket receivePacket;
     DatagramSocket serverSocket;
     ExecutorService executor;
+    PrintWriter writer;
 
-    ValidateAndFetchWord(String word, DatagramSocket serverSocket, DatagramPacket receivePacket, ExecutorService executor){
+    ValidateAndFetchWord(String word, DatagramSocket serverSocket, DatagramPacket receivePacket, ExecutorService executor, PrintWriter writer){
         this.word = word;
         this.receivePacket = receivePacket;
         this.serverSocket = serverSocket;
         this.executor = executor;
+        this.writer = writer;
     }
 
     public void run(){
         try{
+            long threadID = Thread.currentThread().getId() % Constants.numThreads + 1;
+            writer.println("Thread " + threadID + " validating and fetching the word - " + word );
             Boolean isWord = Dictionary.validateWord(word);
             String response;
             if (isWord){
                 response = Dictionary.getMeaning(word);
                 if (response.isEmpty()){
-                    response = "Sorry, meaning was not found in the dictionary!";
+                    response = "Sorry. For the given word, " + word + " meaning was not found in the dictionary!";
                     System.out.println(response + "\n");
                 }
             }
@@ -101,8 +112,7 @@ class ValidateAndFetchWord implements Runnable{
                 response = word + " is not a valid word. please try again";
                 System.out.println(response + "\n");
             }
-            System.out.println("response for the word - " + word + " is \n\n" + response);
-            executor.execute(new SendToClient(response, serverSocket, receivePacket));
+            executor.execute(new SendToClient(response, serverSocket, receivePacket, word, writer));
         }
         catch(Exception e){
             System.out.println("Exception caught : "+ e.getMessage());
@@ -114,17 +124,24 @@ class SendToClient implements Runnable{
     String response;
     DatagramPacket receivePacket;
     DatagramSocket serverSocket;
+    PrintWriter writer;
+    String word;
 
-    SendToClient(String response, DatagramSocket serverSocket, DatagramPacket receivePacket){
+    SendToClient(String response, DatagramSocket serverSocket, DatagramPacket receivePacket, String word, PrintWriter writer){
         this.response = response;
         this.receivePacket = receivePacket;
         this.serverSocket = serverSocket;
+        this.writer = writer;
+        this.word = word;
     }
 
     public void run(){
         try{
             byte[] sendMeaning = new byte[10000];
             String response;
+
+            long threadID = Thread.currentThread().getId() % Constants.numThreads + 1;
+            writer.println("Thread " + threadID + " sending response back to client for word - " + word);
 
             InetAddress IPAddress = this.receivePacket.getAddress();
             int port = this.receivePacket.getPort();
