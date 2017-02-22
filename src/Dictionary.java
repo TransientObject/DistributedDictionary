@@ -2,6 +2,9 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 
 /**
  * Created by priyapns on 2/4/17.
@@ -27,6 +30,7 @@ public class Dictionary {
         }
         return isWord;
     }
+
     public static String getMeaning(String word)throws FileNotFoundException{
         //Boolean isWord = false;
         FileReader fr = new FileReader("dictionary.txt");
@@ -54,5 +58,16 @@ public class Dictionary {
             System.out.println(e);
         }
         return stringBuilder.toString();
+    }
+
+    public static void addWord(String word, String meaning) throws IOException {
+        String dictEntry = word + "\n";
+        Files.write(Paths.get("words.txt"), dictEntry.getBytes(), StandardOpenOption.APPEND);
+        Dictionary.addMeaning(word, meaning);
+    }
+
+    public static void addMeaning(String word, String meaning) throws IOException {
+        String dictEntry = "\n" + word.toUpperCase() + "\n\nDefn: " + meaning + "\n";
+        Files.write(Paths.get("dictionary.txt"), dictEntry.getBytes(), StandardOpenOption.APPEND);
     }
 }

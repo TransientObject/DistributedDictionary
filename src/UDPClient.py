@@ -3,6 +3,7 @@ import socket
 
 ip_address = socket.gethostbyname("localhost")
 port = 9876
+port_for_meaning = 9880
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 while(True):
@@ -14,13 +15,21 @@ while(True):
 
   #print(ip_address, port)
   #print("searching meaning for", word)
-  words = ["abet", "apple", "hello", "hi", "asdasdas"];
+  words = ["abet", "hi", "asdasdas", "apple", "orange"];
   for word in words:
     server_socket.sendto(bytes(word, 'utf-8'), (ip_address, port))
 
   for word in words:
     data, addr = server_socket.recvfrom(10000)
-    print(str(data.decode("utf-8")))
+    response = str(data.decode("utf-8"))
+    if("was not found in the dictionary" in response):
+      print(response)
+      meaning = input("please enter the meaning you want to add"
+                      "\n")
+      server_socket.sendto(bytes(meaning, 'utf-8'), (ip_address, port_for_meaning))
+    else:
+      print(response)
+
 
   server_socket.sendto(bytes("#", 'utf-8'), (ip_address, port))
 
