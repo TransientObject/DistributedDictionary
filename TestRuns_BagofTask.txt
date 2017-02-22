@@ -1,0 +1,3684 @@
+Server Output
+
+
+search for word abet
+search for word hello
+search for word hi
+search for word apple
+search for word invalidword
+search for word abet
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+invalidword is not a valid word. please try again
+
+search for word abet
+search for word apple
+invalidword is not a valid word. please try again
+
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+search for word apple
+invalidword is not a valid word. please try again
+
+search for word hello
+search for word hi
+search for word invalidword
+invalidword is not a valid word. please try again
+
+search for word abet
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+invalidword is not a valid word. please try again
+
+search for word abet
+search for word apple
+search for word hello
+search for word hi
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word invalidword
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word invalidword
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word abet
+search for word apple
+invalidword is not a valid word. please try again
+
+search for word hello
+search for word hi
+search for word invalidword
+invalidword is not a valid word. please try again
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word abet
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+search for word apple
+search for word hello
+search for word invalidword
+search for word hi
+invalidword is not a valid word. please try again
+
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+search for word apple
+invalidword is not a valid word. please try again
+
+search for word hello
+search for word hi
+search for word invalidword
+invalidword is not a valid word. please try again
+
+search for word abet
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+search for word apple
+invalidword is not a valid word. please try again
+
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+invalidword is not a valid word. please try again
+
+search for word abet
+search for word apple
+search for word hello
+search for word hi
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word invalidword
+search for word abet
+search for word apple
+invalidword is not a valid word. please try again
+
+search for word hello
+search for word hi
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word invalidword
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+invalidword is not a valid word. please try again
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word abet
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+search for word apple
+search for word abet
+search for word invalidword
+search for word hi
+search for word hello
+invalidword is not a valid word. please try again
+
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+search for word apple
+invalidword is not a valid word. please try again
+
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+search for word abet
+invalidword is not a valid word. please try again
+
+search for word apple
+search for word hello
+search for word hi
+search for word invalidword
+invalidword is not a valid word. please try again
+
+search for word abet
+search for word apple
+search for word hello
+search for word hi
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word invalidword
+search for word abet
+search for word apple
+invalidword is not a valid word. please try again
+
+search for word hello
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word hi
+search for word invalidword
+invalidword is not a valid word. please try again
+
+search for word abet
+search for word apple
+search for word hello
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+search for word hi
+search for word invalidword
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+invalidword is not a valid word. please try again
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Client is closing the session
+
+All threads have finished executing. Bye
+
+Process finished with exit code 0
+
+
+
+
+
+
+
+
+
+
+
+Client Output
+
+"C:\Program Files (x86)\Python35-32\python.exe" C:/Users/ravisank/IdeaProjects/DistributedDictionary/src/UDPClient.py
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+Sorry. For the given word, hi meaning was not found in the dictionary!
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+invalidword is not a valid word. please try again
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+invalidword is not a valid word. please try again
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+invalidword is not a valid word. please try again
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+invalidword is not a valid word. please try again
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+Sorry. For the given word, hi meaning was not found in the dictionary!
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+invalidword is not a valid word. please try again
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+invalidword is not a valid word. please try again
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+invalidword is not a valid word. please try again
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+invalidword is not a valid word. please try again
+Sorry. For the given word, hi meaning was not found in the dictionary!
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+invalidword is not a valid word. please try again
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+ABET
+A*bet", v.t. [imp. & p.p. Abetted; p.pr. & vb.n. Abetting.] Etym:
+[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita
+to set dogs on, to feed, originally, to cause to bite, fr. Icel. bita
+to bite, hence to bait, to incite. See Bait, Bet.]
+
+1. To instigate or encourage by aid or countenance; -- used in a bad
+sense of persons and acts; as, to abet an ill-doer; to abet one in
+his wicked courses; to abet vice; to abet an insurrection. "The whole
+tribe abets the villany." South.
+Would not the fool abet the stealth, Who rashly thus exposed his
+wealth Gay.
+
+2. To support, uphold, or aid; to maintain; -- in a good sense.
+[Obs.].
+Our duty is urged, and our confidence abetted. Jer. Taylor.
+
+3. (Law)
+
+Defn: To contribute, as an assistant or instigator, to the commission
+of an offense.
+
+Syn.
+ -- To incite; instigate; set on; egg on; foment; advocate;
+countenance; encourage; second; uphold; aid; assist; support;
+sustain; back; connive at.
+
+ABET
+A*bet", n. Etym: [OF. abet, fr. abeter.]
+
+Defn: Act of abetting; aid. [Obs.] Chaucer.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+APPLE
+Ap"ple, n. Etym: [OE. appel, eppel, AS. æppel, æpl; akin to Fries. &
+D. appel, OHG, aphul, aphol, G. apfel, Icel. epli, Sw. äple, Dan.
+æble, Gael. ubhall, W. afal, Arm. aval, Lith. ob, Russ. iabloko; of
+unknown origin.]
+
+1. The fleshy pome or fruit of a rosaceous tree (Pyrus malus)
+cultivated in numberless varieties in the temperate zones.
+
+Note: The European crab apple is supposed to be the original kind,
+from which all others have sprung.
+
+2. (bot.)
+
+Defn: Any tree genus Pyrus which has the stalk sunken into the base
+of the fruit; an apple tree.
+
+3. Any fruit or other vegetable production resembling, or supposed to
+resemble, the apple; as, apple of love, or love apple (a tomato),
+balsam apple, egg apple, oak apple.
+
+4. Anything round like an apple; as, an apple of gold.
+
+Note: Apple is used either adjectively or in combination; as, apple
+paper or apple-paper, apple-shaped, apple blossom, apple dumpling,
+apple pudding. Apple blight, an aphid which injures apple trees. See
+Blight, n.
+ -- Apple borer (Zoöl.), a coleopterous insect (Saperda candida or
+bivittata), the larva of which bores into the trunk of the apple tree
+and pear tree.
+ -- Apple brandy, brandy made from apples.
+ -- Apple butter, a sauce made of apples stewed down in cider.
+Bartlett.
+ -- Apple corer, an instrument for removing the cores from apples.
+ -- Apple fly (Zoöl.), any dipterous insect, the larva of which
+burrows in apples. Apple flies belong to the genera Drosophila and
+Trypeta.
+ -- Apple midge (Zoöl.) a small dipterous insect (Sciara mali), the
+larva of which bores in apples.
+ -- Apple of the eye, the pupil.
+ -- Apple of discord, a subject of contention and envy, so called
+from the mythological golden apple, inscribed "For the fairest,"
+which was thrown into an assembly of the gods by Eris, the goddess of
+discord. It was contended for by Juno, Minerva, and Venus, and was
+adjudged to the latter.
+ -- Apple of love, or Love apple, the tomato (Lycopersicum
+esculentum).
+ -- Apple of Peru, a large coarse herb (Nicandra physaloides) bearing
+pale blue flowers, and a bladderlike fruit inclosing a dry berry.
+ -- Apples of Sodom, a fruit described by ancient writers as
+externally of air appearance but dissolving into smoke and ashes
+plucked; Dead Sea apples. The name is often given to the fruit of
+Solanum Sodomæum, a prickly shrub with fruit not unlike a small
+yellow tomato.
+ -- Apple sauce, stewed apples. [U. S.] -- Apple snail or Apple shell
+(Zoöl.), a fresh-water, operculated, spiral shell of the genus
+Ampullaria.
+ -- Apple tart, a tart containing apples.
+ -- Apple tree, a tree naturally bears apples. See Apple, 2.
+ -- Apple wine, cider.
+ -- Apple worm (Zoöl.), the larva of a small moth (Carpocapsa
+pomonella) which burrows in the interior of apples. See Codling moth.
+ -- Dead Sea Apple. (a) pl. Apples of Sodom. Also Fig. "To seek the
+Dead Sea apples of politics." S. B. Griffin. (b) A kind of gallnut
+coming from Arabia. See Gallnut.
+
+APPLE
+Ap"ple, v. i.
+
+Defn: To grow like an apple; to bear apples. Holland.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+invalidword is not a valid word. please try again
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+HELLO
+Hel*lo", interj. & n.
+
+Defn: See Halloo.
+
+
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+Sorry. For the given word, hi meaning was not found in the dictionary!
+
+Process finished with exit code 0

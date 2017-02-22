@@ -1,0 +1,456 @@
+Thread 13 - Received the word abet from client
+Thread 14 validating and fetching the word - abet
+Thread 15 - Received the word apple from client
+Thread 16 validating and fetching the word - apple
+Thread 17 - Received the word hello from client
+Thread 18 validating and fetching the word - hello
+Thread 19 - Received the word hi from client
+Thread 20 validating and fetching the word - hi
+Thread 21 - Received the word invalidword from client
+Thread 22 validating and fetching the word - invalidword
+Thread 23 - Received the word abet from client
+Thread 24 validating and fetching the word - abet
+Thread 25 - Received the word apple from client
+Thread 26 validating and fetching the word - apple
+Thread 27 - Received the word hello from client
+Thread 28 validating and fetching the word - hello
+Thread 29 - Received the word hi from client
+Thread 30 validating and fetching the word - hi
+Thread 31 - Received the word invalidword from client
+Thread 32 validating and fetching the word - invalidword
+Thread 33 - Received the word abet from client
+Thread 34 validating and fetching the word - abet
+Thread 35 - Received the word apple from client
+Thread 36 validating and fetching the word - apple
+Thread 37 - Received the word hello from client
+Thread 38 validating and fetching the word - hello
+Thread 39 - Received the word hi from client
+Thread 40 validating and fetching the word - hi
+Thread 41 - Received the word invalidword from client
+Thread 42 validating and fetching the word - invalidword
+Thread 43 - Received the word abet from client
+Thread 44 validating and fetching the word - abet
+Thread 45 - Received the word apple from client
+Thread 47 - Received the word hello from client
+Thread 46 validating and fetching the word - apple
+Thread 48 validating and fetching the word - hello
+Thread 49 - Received the word hi from client
+Thread 50 validating and fetching the word - hi
+Thread 51 - Received the word invalidword from client
+Thread 53 - Received the word abet from client
+Thread 52 validating and fetching the word - invalidword
+Thread 55 - Received the word apple from client
+Thread 54 validating and fetching the word - abet
+Thread 56 validating and fetching the word - apple
+Thread 57 - Received the word hello from client
+Thread 58 validating and fetching the word - hello
+Thread 59 - Received the word hi from client
+Thread 60 validating and fetching the word - hi
+Thread 61 - Received the word invalidword from client
+Thread 62 sending response back to client for word - invalidword
+Thread 63 validating and fetching the word - invalidword
+Thread 64 - Received the word abet from client
+Thread 68 sending response back to client for word - abet
+Thread 66 validating and fetching the word - abet
+Thread 67 - Received the word apple from client
+Thread 65 sending response back to client for word - abet
+Thread 71 sending response back to client for word - abet
+Thread 69 validating and fetching the word - apple
+Thread 70 - Received the word hello from client
+Thread 72 sending response back to client for word - invalidword
+Thread 74 validating and fetching the word - hello
+Thread 73 sending response back to client for word - invalidword
+Thread 75 - Received the word hi from client
+Thread 76 validating and fetching the word - hi
+Thread 77 - Received the word invalidword from client
+Thread 78 sending response back to client for word - invalidword
+Thread 79 validating and fetching the word - invalidword
+Thread 80 - Received the word abet from client
+Thread 82 validating and fetching the word - abet
+Thread 83 - Received the word apple from client
+Thread 81 sending response back to client for word - apple
+Thread 84 validating and fetching the word - apple
+Thread 85 - Received the word hello from client
+Thread 86 validating and fetching the word - hello
+Thread 87 - Received the word hi from client
+Thread 88 validating and fetching the word - hi
+Thread 89 - Received the word invalidword from client
+Thread 91 validating and fetching the word - invalidword
+Thread 90 sending response back to client for word - invalidword
+Thread 93 sending response back to client for word - invalidword
+Thread 92 - Received the word abet from client
+Thread 96 sending response back to client for word - abet
+Thread 94 validating and fetching the word - abet
+Thread 95 - Received the word apple from client
+Thread 97 validating and fetching the word - apple
+Thread 98 - Received the word hello from client
+Thread 99 validating and fetching the word - hello
+Thread 100 - Received the word hi from client
+Thread 1 validating and fetching the word - hi
+Thread 2 - Received the word invalidword from client
+Thread 4 - Received the word abet from client
+Thread 3 validating and fetching the word - invalidword
+Thread 5 validating and fetching the word - abet
+Thread 6 - Received the word apple from client
+Thread 7 validating and fetching the word - apple
+Thread 8 - Received the word hello from client
+Thread 82 sending response back to client for word - abet
+Thread 12 sending response back to client for word - abet
+Thread 10 validating and fetching the word - hello
+Thread 9 sending response back to client for word - abet
+Thread 11 - Received the word hi from client
+Thread 15 validating and fetching the word - hi
+Thread 17 - Received the word invalidword from client
+Thread 19 validating and fetching the word - invalidword
+Thread 21 - Received the word abet from client
+Thread 23 validating and fetching the word - abet
+Thread 25 - Received the word apple from client
+Thread 27 validating and fetching the word - apple
+Thread 29 - Received the word hello from client
+Thread 31 validating and fetching the word - hello
+Thread 33 - Received the word hi from client
+Thread 35 validating and fetching the word - hi
+Thread 37 - Received the word invalidword from client
+Thread 39 validating and fetching the word - invalidword
+Thread 41 sending response back to client for word - invalidword
+Thread 3 sending response back to client for word - invalidword
+Thread 94 sending response back to client for word - abet
+Thread 5 sending response back to client for word - abet
+Thread 23 sending response back to client for word - abet
+Thread 19 sending response back to client for word - invalidword
+Thread 39 sending response back to client for word - invalidword
+Thread 36 sending response back to client for word - apple
+Thread 56 sending response back to client for word - apple
+Thread 26 sending response back to client for word - apple
+Thread 46 sending response back to client for word - apple
+Thread 69 sending response back to client for word - apple
+Thread 84 sending response back to client for word - apple
+Thread 7 sending response back to client for word - apple
+Thread 27 sending response back to client for word - apple
+Thread 97 sending response back to client for word - apple
+Thread 48 sending response back to client for word - hello
+Thread 58 sending response back to client for word - hello
+Thread 28 sending response back to client for word - hello
+Thread 38 sending response back to client for word - hello
+Thread 18 sending response back to client for word - hello
+Thread 74 sending response back to client for word - hello
+Thread 86 sending response back to client for word - hello
+Thread 10 sending response back to client for word - hello
+Thread 31 sending response back to client for word - hello
+Thread 75 sending response back to client for word - hello
+Thread 40 sending response back to client for word - hi
+Thread 15 sending response back to client for word - hi
+Thread 30 sending response back to client for word - hi
+Thread 76 sending response back to client for word - hi
+Thread 88 sending response back to client for word - hi
+Thread 60 sending response back to client for word - hi
+Thread 50 sending response back to client for word - hi
+Thread 20 sending response back to client for word - hi
+Thread 35 sending response back to client for word - hi
+Thread 1 sending response back to client for word - hi
+Thread 91 - Received the word abet from client
+Thread 89 validating and fetching the word - abet
+Thread 79 - Received the word apple from client
+Thread 93 validating and fetching the word - apple
+Thread 90 - Received the word hello from client
+Thread 92 validating and fetching the word - hello
+Thread 66 - Received the word hi from client
+Thread 95 validating and fetching the word - hi
+Thread 96 - Received the word invalidword from client
+Thread 98 validating and fetching the word - invalidword
+Thread 100 - Received the word abet from client
+Thread 100 validating and fetching the word - abet
+Thread 2 - Received the word apple from client
+Thread 6 validating and fetching the word - apple
+Thread 14 - Received the word hello from client
+Thread 8 validating and fetching the word - hello
+Thread 44 - Received the word hi from client
+Thread 13 validating and fetching the word - hi
+Thread 12 - Received the word invalidword from client
+Thread 9 validating and fetching the word - invalidword
+Thread 82 - Received the word abet from client
+Thread 11 validating and fetching the word - abet
+Thread 17 - Received the word apple from client
+Thread 21 validating and fetching the word - apple
+Thread 25 - Received the word hello from client
+Thread 29 validating and fetching the word - hello
+Thread 33 - Received the word hi from client
+Thread 37 validating and fetching the word - hi
+Thread 41 - Received the word invalidword from client
+Thread 43 validating and fetching the word - invalidword
+Thread 45 - Received the word abet from client
+Thread 3 validating and fetching the word - abet
+Thread 94 - Received the word apple from client
+Thread 47 validating and fetching the word - apple
+Thread 89 - Received the word hello from client
+Thread 89 sending response back to client for word - abet
+Thread 5 validating and fetching the word - hello
+Thread 49 - Received the word hi from client
+Thread 53 validating and fetching the word - hi
+Thread 19 - Received the word invalidword from client
+Thread 55 validating and fetching the word - invalidword
+Thread 39 - Received the word abet from client
+Thread 57 validating and fetching the word - abet
+Thread 36 - Received the word apple from client
+Thread 9 validating and fetching the word - apple
+Thread 59 - Received the word hello from client
+Thread 59 sending response back to client for word - invalidword
+Thread 100 sending response back to client for word - abet
+Thread 56 validating and fetching the word - hello
+Thread 52 - Received the word hi from client
+Thread 61 validating and fetching the word - hi
+Thread 46 - Received the word invalidword from client
+Thread 64 validating and fetching the word - invalidword
+Thread 84 - Received the word abet from client
+Thread 54 validating and fetching the word - abet
+Thread 7 - Received the word apple from client
+Thread 27 validating and fetching the word - apple
+Thread 24 - Received the word hello from client
+Thread 68 validating and fetching the word - hello
+Thread 97 - Received the word hi from client
+Thread 67 validating and fetching the word - hi
+Thread 48 - Received the word invalidword from client
+Thread 34 validating and fetching the word - invalidword
+Thread 58 - Received the word abet from client
+Thread 65 validating and fetching the word - abet
+Thread 28 - Received the word apple from client
+Thread 71 validating and fetching the word - apple
+Thread 11 sending response back to client for word - abet
+Thread 38 - Received the word hello from client
+Thread 18 validating and fetching the word - hello
+Thread 22 - Received the word hi from client
+Thread 74 validating and fetching the word - hi
+Thread 32 - Received the word invalidword from client
+Thread 86 validating and fetching the word - invalidword
+Thread 10 - Received the word abet from client
+Thread 72 validating and fetching the word - abet
+Thread 43 sending response back to client for word - invalidword
+Thread 73 - Received the word apple from client
+Thread 31 validating and fetching the word - apple
+Thread 99 - Received the word hello from client
+Thread 40 validating and fetching the word - hello
+Thread 42 - Received the word hi from client
+Thread 77 validating and fetching the word - hi
+Thread 15 - Received the word invalidword from client
+Thread 78 validating and fetching the word - invalidword
+Thread 98 sending response back to client for word - invalidword
+Thread 30 - Received the word abet from client
+Thread 64 validating and fetching the word - abet
+Thread 80 sending response back to client for word - invalidword
+Thread 57 sending response back to client for word - abet
+Thread 76 - Received the word apple from client
+Thread 80 validating and fetching the word - apple
+Thread 60 - Received the word hello from client
+Thread 50 validating and fetching the word - hello
+Thread 85 - Received the word hi from client
+Thread 3 sending response back to client for word - abet
+Thread 3 validating and fetching the word - hi
+Thread 20 - Received the word invalidword from client
+Thread 35 validating and fetching the word - invalidword
+Thread 63 - Received the word abet from client
+Thread 91 validating and fetching the word - abet
+Thread 79 - Received the word apple from client
+Thread 90 validating and fetching the word - apple
+Thread 66 - Received the word hello from client
+Thread 34 validating and fetching the word - hello
+Thread 4 sending response back to client for word - invalidword
+Thread 96 - Received the word hi from client
+Thread 14 validating and fetching the word - hi
+Thread 44 - Received the word invalidword from client
+Thread 12 validating and fetching the word - invalidword
+Thread 93 sending response back to client for word - apple
+Thread 55 sending response back to client for word - invalidword
+Thread 54 sending response back to client for word - abet
+Thread 86 sending response back to client for word - invalidword
+Thread 65 sending response back to client for word - abet
+Thread 78 sending response back to client for word - invalidword
+Thread 35 sending response back to client for word - invalidword
+Thread 72 sending response back to client for word - abet
+Thread 12 sending response back to client for word - invalidword
+Thread 64 sending response back to client for word - abet
+Thread 6 sending response back to client for word - apple
+Thread 91 sending response back to client for word - abet
+Thread 21 sending response back to client for word - apple
+Thread 9 sending response back to client for word - apple
+Thread 27 sending response back to client for word - apple
+Thread 47 sending response back to client for word - apple
+Thread 31 sending response back to client for word - apple
+Thread 71 sending response back to client for word - apple
+Thread 69 sending response back to client for word - apple
+Thread 90 sending response back to client for word - apple
+Thread 84 sending response back to client for word - hello
+Thread 8 sending response back to client for word - hello
+Thread 29 sending response back to client for word - hello
+Thread 5 sending response back to client for word - hello
+Thread 56 sending response back to client for word - hello
+Thread 40 sending response back to client for word - hello
+Thread 68 sending response back to client for word - hello
+Thread 18 sending response back to client for word - hello
+Thread 50 sending response back to client for word - hello
+Thread 34 sending response back to client for word - hello
+Thread 61 sending response back to client for word - hi
+Thread 53 sending response back to client for word - hi
+Thread 95 sending response back to client for word - hi
+Thread 13 sending response back to client for word - hi
+Thread 37 sending response back to client for word - hi
+Thread 67 sending response back to client for word - hi
+Thread 77 sending response back to client for word - hi
+Thread 14 sending response back to client for word - hi
+Thread 3 sending response back to client for word - hi
+Thread 74 sending response back to client for word - hi
+Thread 82 - Received the word abet from client
+Thread 98 validating and fetching the word - abet
+Thread 30 - Received the word apple from client
+Thread 57 validating and fetching the word - apple
+Thread 88 - Received the word hello from client
+Thread 83 validating and fetching the word - hello
+Thread 76 - Received the word hi from client
+Thread 81 validating and fetching the word - hi
+Thread 60 - Received the word invalidword from client
+Thread 85 validating and fetching the word - invalidword
+Thread 87 - Received the word abet from client
+Thread 20 validating and fetching the word - abet
+Thread 63 - Received the word apple from client
+Thread 1 validating and fetching the word - apple
+Thread 79 - Received the word hello from client
+Thread 66 validating and fetching the word - hello
+Thread 2 - Received the word hi from client
+Thread 96 validating and fetching the word - hi
+Thread 4 - Received the word invalidword from client
+Thread 44 validating and fetching the word - invalidword
+Thread 93 - Received the word abet from client
+Thread 17 validating and fetching the word - abet
+Thread 25 - Received the word apple from client
+Thread 55 validating and fetching the word - apple
+Thread 54 - Received the word hello from client
+Thread 33 validating and fetching the word - hello
+Thread 86 - Received the word hi from client
+Thread 41 validating and fetching the word - hi
+Thread 45 - Received the word invalidword from client
+Thread 94 validating and fetching the word - invalidword
+Thread 78 - Received the word abet from client
+Thread 65 validating and fetching the word - abet
+Thread 89 - Received the word apple from client
+Thread 35 validating and fetching the word - apple
+Thread 72 - Received the word hello from client
+Thread 98 sending response back to client for word - abet
+Thread 98 validating and fetching the word - hello
+Thread 23 - Received the word hi from client
+Thread 85 sending response back to client for word - invalidword
+Thread 44 sending response back to client for word - invalidword
+Thread 12 validating and fetching the word - hi
+Thread 64 - Received the word invalidword from client
+Thread 39 validating and fetching the word - invalidword
+Thread 20 - Received the word abet from client
+Thread 20 sending response back to client for word - abet
+Thread 21 validating and fetching the word - abet
+Thread 59 - Received the word apple from client
+Thread 9 validating and fetching the word - apple
+Thread 100 - Received the word hello from client
+Thread 27 validating and fetching the word - hello
+Thread 52 - Received the word hi from client
+Thread 17 sending response back to client for word - abet
+Thread 47 validating and fetching the word - hi
+Thread 71 - Received the word invalidword from client
+Thread 31 validating and fetching the word - invalidword
+Thread 62 - Received the word abet from client
+Thread 80 validating and fetching the word - abet
+Thread 69 - Received the word apple from client
+Thread 46 validating and fetching the word - apple
+Thread 90 - Received the word hello from client
+Thread 92 validating and fetching the word - hello
+Thread 84 - Received the word hi from client
+Thread 7 validating and fetching the word - hi
+Thread 8 - Received the word invalidword from client
+Thread 24 validating and fetching the word - invalidword
+Thread 29 - Received the word abet from client
+Thread 97 validating and fetching the word - abet
+Thread 5 - Received the word apple from client
+Thread 48 validating and fetching the word - apple
+Thread 94 - Received the word hello from client
+Thread 94 sending response back to client for word - invalidword
+Thread 65 validating and fetching the word - hello
+Thread 56 - Received the word hi from client
+Thread 56 sending response back to client for word - abet
+Thread 68 validating and fetching the word - hi
+Thread 11 sending response back to client for word - invalidword
+Thread 31 - Received the word invalidword from client
+Thread 70 validating and fetching the word - invalidword
+Thread 50 - Received the word abet from client
+Thread 34 validating and fetching the word - abet
+Thread 22 - Received the word apple from client
+Thread 32 validating and fetching the word - apple
+Thread 24 - Received the word hello from client
+Thread 24 sending response back to client for word - invalidword
+Thread 53 validating and fetching the word - hello
+Thread 10 - Received the word hi from client
+Thread 73 validating and fetching the word - hi
+Thread 13 - Received the word invalidword from client
+Thread 43 validating and fetching the word - invalidword
+Thread 37 - Received the word abet from client
+Thread 99 validating and fetching the word - abet
+Thread 67 - Received the word apple from client
+Thread 39 validating and fetching the word - apple
+Thread 75 sending response back to client for word - invalidword
+Thread 42 - Received the word hello from client
+Thread 14 validating and fetching the word - hello
+Thread 15 - Received the word hi from client
+Thread 3 validating and fetching the word - hi
+Thread 16 - Received the word invalidword from client
+Thread 74 validating and fetching the word - invalidword
+Thread 82 - Received the word abet from client
+Thread 30 validating and fetching the word - abet
+Thread 88 - Received the word apple from client
+Thread 76 validating and fetching the word - apple
+Thread 60 - Received the word hello from client
+Thread 87 validating and fetching the word - hello
+Thread 63 - Received the word hi from client
+Thread 79 validating and fetching the word - hi
+Thread 2 - Received the word invalidword from client
+Thread 2 sending response back to client for word - invalidword
+Thread 4 validating and fetching the word - invalidword
+Thread 54 sending response back to client for word - invalidword
+Thread 80 sending response back to client for word - abet
+Thread 74 sending response back to client for word - invalidword
+Thread 97 sending response back to client for word - abet
+Thread 89 sending response back to client for word - abet
+Thread 21 sending response back to client for word - abet
+Thread 99 sending response back to client for word - abet
+Thread 23 sending response back to client for word - abet
+Thread 4 sending response back to client for word - invalidword
+Thread 1 sending response back to client for word - apple
+Thread 55 sending response back to client for word - apple
+Thread 57 sending response back to client for word - apple
+Thread 48 sending response back to client for word - apple
+Thread 35 sending response back to client for word - apple
+Thread 9 sending response back to client for word - apple
+Thread 32 sending response back to client for word - apple
+Thread 46 sending response back to client for word - apple
+Thread 76 sending response back to client for word - apple
+Thread 39 sending response back to client for word - apple
+Thread 66 sending response back to client for word - hello
+Thread 83 sending response back to client for word - hello
+Thread 33 sending response back to client for word - hello
+Thread 53 sending response back to client for word - hello
+Thread 65 sending response back to client for word - hello
+Thread 98 sending response back to client for word - hello
+Thread 27 sending response back to client for word - hello
+Thread 87 sending response back to client for word - hello
+Thread 92 sending response back to client for word - hello
+Thread 14 sending response back to client for word - hello
+Thread 81 sending response back to client for word - hi
+Thread 12 sending response back to client for word - hi
+Thread 68 sending response back to client for word - hi
+Thread 96 sending response back to client for word - hi
+Thread 3 sending response back to client for word - hi
+Thread 7 sending response back to client for word - hi
+Thread 47 sending response back to client for word - hi
+Thread 73 sending response back to client for word - hi
+Thread 41 sending response back to client for word - hi
+Thread 79 sending response back to client for word - hi
+Thread 93 - Received the word abet from client
+Thread 50 validating and fetching the word - abet
+Thread 22 - Received the word apple from client
+Thread 24 validating and fetching the word - apple
+Thread 61 - Received the word hello from client
+Thread 95 validating and fetching the

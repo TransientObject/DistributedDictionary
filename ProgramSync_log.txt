@@ -1,0 +1,1250 @@
+Thread 3 - search for word abet
+Thread 4 - search for word hi
+Thread 5 - search for word asdasdas
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 5 - wait for semaphore to fetch/add asdasdas
+Thread 6 - search for word apple
+Thread 7 - search for word orange
+Thread 4 - wait for semaphore to fetch/add hi
+Thread 7 - wait for semaphore to fetch/add orange
+Thread 8 - search for word abet
+Thread 9 - search for word hi
+Thread 3 - get the semaphore to fetch/add abet
+Thread 6 - wait for semaphore to fetch/add apple
+Thread 10 - search for word asdasdas
+Thread 1 - search for word apple
+Thread 10 - wait for semaphore to fetch/add asdasdas
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 8 - wait for semaphore to fetch/add abet
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 1 - wait for semaphore to fetch/add apple
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 5 - get the semaphore to fetch/add asdasdas
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 5 - waiting for the client to give meaning for the word asdasdas
+Thread 5 - release the semaphore
+Thread 6 - get the semaphore to fetch/add apple
+Thread 5 - search for word hi
+Thread 5 - wait for semaphore to fetch/add hi
+Thread 6 - apple is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 7 - get the semaphore to fetch/add orange
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 7 - orange is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 4 - get the semaphore to fetch/add hi
+Thread 7 - search for word apple
+Thread 7 - wait for semaphore to fetch/add apple
+Thread 4 - waiting for the client to give meaning for the word hi
+Thread 4 - release the semaphore
+Thread 4 - search for word orange
+Thread 8 - get the semaphore to fetch/add abet
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 8 - abet is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 8 - search for word abet
+Thread 8 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 10 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 10 - asdasdas is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 10 - search for word asdasdas
+Thread 10 - wait for semaphore to fetch/add asdasdas
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 1 - get the semaphore to fetch/add apple
+Thread 2 - search for word apple
+Thread 2 - wait for semaphore to fetch/add apple
+Thread 1 - apple is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 5 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 5 - hi is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 5 - search for word hi
+Thread 5 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 7 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 7 - apple is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 7 - search for word apple
+Thread 7 - wait for semaphore to fetch/add apple
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 8 - get the semaphore to fetch/add abet
+Thread 4 - search for word orange
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 8 - abet is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 8 - search for word abet
+Thread 8 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 10 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 10 - asdasdas is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 2 - get the semaphore to fetch/add apple
+Thread 10 - search for word asdasdas
+Thread 10 - wait for semaphore to fetch/add asdasdas
+Thread 2 - apple is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 2 - search for word apple
+Thread 2 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 5 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 5 - hi is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 5 - search for word hi
+Thread 5 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 7 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 7 - apple is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 7 - search for word apple
+Thread 7 - wait for semaphore to fetch/add apple
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 8 - get the semaphore to fetch/add abet
+Thread 4 - search for word orange
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 8 - abet is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 8 - search for word abet
+Thread 8 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 10 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 10 - asdasdas is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 2 - get the semaphore to fetch/add apple
+Thread 10 - search for word asdasdas
+Thread 10 - wait for semaphore to fetch/add asdasdas
+Thread 2 - apple is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 2 - search for word apple
+Thread 2 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 5 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 5 - hi is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 5 - search for word hi
+Thread 5 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 7 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 7 - apple is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 7 - search for word apple
+Thread 7 - wait for semaphore to fetch/add apple
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 8 - get the semaphore to fetch/add abet
+Thread 4 - search for word orange
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 8 - abet is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 8 - search for word abet
+Thread 8 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 10 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 10 - asdasdas is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 2 - get the semaphore to fetch/add apple
+Thread 10 - search for word asdasdas
+Thread 10 - wait for semaphore to fetch/add asdasdas
+Thread 2 - apple is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 2 - search for word apple
+Thread 2 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 5 - get the semaphore to fetch/add hi
+Thread 5 - hi is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 7 - get the semaphore to fetch/add apple
+Thread 7 - apple is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 8 - get the semaphore to fetch/add abet
+Thread 8 - abet is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 10 - get the semaphore to fetch/add asdasdas
+Thread 10 - asdasdas is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 2 - get the semaphore to fetch/add apple
+Thread 2 - apple is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 5 - search for word hi
+Thread 3 - get the semaphore to fetch/add abet
+Thread 6 - search for word asdasdas
+Thread 7 - search for word apple
+Thread 4 - search for word orange
+Thread 5 - wait for semaphore to fetch/add hi
+Thread 8 - search for word abet
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 7 - wait for semaphore to fetch/add apple
+Thread 9 - search for word hi
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 10 - search for word asdasdas
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 2 - search for word apple
+Thread 1 - search for word orange
+Thread 8 - wait for semaphore to fetch/add abet
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 2 - wait for semaphore to fetch/add apple
+Thread 10 - wait for semaphore to fetch/add asdasdas
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add apple
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - apple is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add hi
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - hi is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 8 - get the semaphore to fetch/add abet
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 8 - abet is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 8 - search for word orange
+Thread 8 - wait for semaphore to fetch/add orange
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 4 - search for word abet
+Thread 4 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 2 - get the semaphore to fetch/add apple
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 2 - apple is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 10 - get the semaphore to fetch/add asdasdas
+Thread 2 - search for word asdasdas
+Thread 2 - wait for semaphore to fetch/add asdasdas
+Thread 10 - asdasdas is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 10 - search for word apple
+Thread 1 - get the semaphore to fetch/add orange
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 8 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 8 - orange is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add abet
+Thread 8 - search for word orange
+Thread 8 - wait for semaphore to fetch/add orange
+Thread 4 - abet is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 4 - search for word abet
+Thread 4 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 2 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 2 - asdasdas is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 2 - search for word asdasdas
+Thread 2 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 8 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 8 - orange is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add abet
+Thread 8 - search for word orange
+Thread 8 - wait for semaphore to fetch/add orange
+Thread 4 - abet is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 4 - search for word abet
+Thread 4 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 2 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 2 - asdasdas is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 2 - search for word asdasdas
+Thread 2 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 8 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 8 - orange is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add abet
+Thread 8 - search for word orange
+Thread 8 - wait for semaphore to fetch/add orange
+Thread 4 - abet is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 4 - search for word abet
+Thread 4 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 2 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 2 - asdasdas is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 2 - search for word asdasdas
+Thread 2 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 8 - get the semaphore to fetch/add orange
+Thread 8 - orange is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add abet
+Thread 4 - abet is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 2 - get the semaphore to fetch/add asdasdas
+Thread 2 - asdasdas is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - search for word hi
+Thread 3 - get the semaphore to fetch/add abet
+Thread 6 - search for word asdasdas
+Thread 5 - search for word apple
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 8 - search for word orange
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 4 - search for word abet
+Thread 8 - wait for semaphore to fetch/add orange
+Thread 9 - search for word hi
+Thread 2 - search for word asdasdas
+Thread 10 - search for word apple
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 1 - search for word orange
+Thread 2 - wait for semaphore to fetch/add asdasdas
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 4 - wait for semaphore to fetch/add abet
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 8 - get the semaphore to fetch/add orange
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 8 - orange is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 8 - search for word apple
+Thread 8 - wait for semaphore to fetch/add apple
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add asdasdas
+Thread 5 - search for word orange
+Thread 5 - wait for semaphore to fetch/add orange
+Thread 2 - asdasdas is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 2 - search for word abet
+Thread 2 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 1 - search for word asdasdas
+Thread 1 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 4 - get the semaphore to fetch/add abet
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 4 - abet is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 4 - search for word orange
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 8 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 8 - apple is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 5 - get the semaphore to fetch/add orange
+Thread 8 - search for word apple
+Thread 8 - wait for semaphore to fetch/add apple
+Thread 5 - orange is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add abet
+Thread 5 - search for word orange
+Thread 5 - wait for semaphore to fetch/add orange
+Thread 2 - abet is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 2 - search for word abet
+Thread 2 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 1 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 1 - asdasdas is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 1 - search for word asdasdas
+Thread 1 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 4 - search for word orange
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 8 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 8 - apple is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 5 - get the semaphore to fetch/add orange
+Thread 8 - search for word apple
+Thread 8 - wait for semaphore to fetch/add apple
+Thread 5 - orange is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add abet
+Thread 5 - search for word orange
+Thread 5 - wait for semaphore to fetch/add orange
+Thread 2 - abet is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 2 - search for word abet
+Thread 2 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 1 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 1 - asdasdas is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 1 - search for word asdasdas
+Thread 1 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 4 - search for word orange
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 8 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 8 - apple is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 5 - get the semaphore to fetch/add orange
+Thread 8 - search for word apple
+Thread 8 - wait for semaphore to fetch/add apple
+Thread 5 - orange is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add abet
+Thread 5 - search for word orange
+Thread 5 - wait for semaphore to fetch/add orange
+Thread 2 - abet is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 2 - search for word abet
+Thread 2 - wait for semaphore to fetch/add abet
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 1 - get the semaphore to fetch/add asdasdas
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 1 - asdasdas is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 1 - search for word asdasdas
+Thread 1 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 4 - search for word orange
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 8 - get the semaphore to fetch/add apple
+Thread 8 - apple is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 5 - get the semaphore to fetch/add orange
+Thread 5 - orange is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add abet
+Thread 2 - abet is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 1 - get the semaphore to fetch/add asdasdas
+Thread 1 - asdasdas is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - search for word hi
+Thread 3 - get the semaphore to fetch/add abet
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 8 - search for word apple
+Thread 6 - search for word asdasdas
+Thread 5 - search for word orange
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - wait for semaphore to fetch/add orange
+Thread 2 - search for word abet
+Thread 8 - wait for semaphore to fetch/add apple
+Thread 2 - wait for semaphore to fetch/add abet
+Thread 9 - search for word hi
+Thread 9 - wait for semaphore to fetch/add hi
+Thread 1 - search for word asdasdas
+Thread 10 - search for word apple
+Thread 4 - search for word orange
+Thread 4 - wait for semaphore to fetch/add orange
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - wait for semaphore to fetch/add asdasdas
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add orange
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - orange is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add abet
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 2 - abet is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add hi
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 9 - hi is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add apple
+Thread 9 - search for word abet
+Thread 9 - wait for semaphore to fetch/add abet
+Thread 8 - apple is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add orange
+Thread 8 - search for word hi
+Thread 8 - wait for semaphore to fetch/add hi
+Thread 4 - orange is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 4 - search for word asdasdas
+Thread 4 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 1 - get the semaphore to fetch/add asdasdas
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - asdasdas is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add abet
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 9 - abet is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add hi
+Thread 9 - search for word abet
+Thread 9 - wait for semaphore to fetch/add abet
+Thread 8 - hi is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add asdasdas
+Thread 8 - search for word hi
+Thread 8 - wait for semaphore to fetch/add hi
+Thread 4 - asdasdas is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 4 - search for word asdasdas
+Thread 4 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add abet
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 9 - abet is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add hi
+Thread 9 - search for word abet
+Thread 9 - wait for semaphore to fetch/add abet
+Thread 8 - hi is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add asdasdas
+Thread 8 - search for word hi
+Thread 8 - wait for semaphore to fetch/add hi
+Thread 4 - asdasdas is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 4 - search for word asdasdas
+Thread 4 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add abet
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 9 - abet is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add hi
+Thread 9 - search for word abet
+Thread 9 - wait for semaphore to fetch/add abet
+Thread 8 - hi is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add asdasdas
+Thread 8 - search for word hi
+Thread 8 - wait for semaphore to fetch/add hi
+Thread 4 - asdasdas is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 4 - search for word asdasdas
+Thread 4 - wait for semaphore to fetch/add asdasdas
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 10 - search for word apple
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 1 - search for word orange
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add abet
+Thread 9 - abet is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add hi
+Thread 8 - hi is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add asdasdas
+Thread 4 - asdasdas is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 3 - get the semaphore to fetch/add abet
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 9 - search for word abet
+Thread 9 - wait for semaphore to fetch/add abet
+Thread 8 - search for word hi
+Thread 8 - wait for semaphore to fetch/add hi
+Thread 4 - search for word asdasdas
+Thread 4 - wait for semaphore to fetch/add asdasdas
+Thread 10 - search for word apple
+Thread 1 - search for word orange
+Thread 10 - wait for semaphore to fetch/add apple
+Thread 1 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add abet
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 9 - abet is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add hi
+Thread 9 - search for word abet
+Thread 9 - wait for semaphore to fetch/add abet
+Thread 8 - hi is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add asdasdas
+Thread 8 - search for word hi
+Thread 8 - wait for semaphore to fetch/add hi
+Thread 4 - asdasdas is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 1 - get the semaphore to fetch/add orange
+Thread 4 - search for word asdasdas
+Thread 4 - wait for semaphore to fetch/add asdasdas
+Thread 1 - orange is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add apple
+Thread 1 - search for word apple
+Thread 1 - wait for semaphore to fetch/add apple
+Thread 10 - apple is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 10 - search for word orange
+Thread 10 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add abet
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 9 - abet is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add hi
+Thread 9 - search for word abet
+Thread 9 - wait for semaphore to fetch/add abet
+Thread 8 - hi is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add asdasdas
+Thread 8 - search for word hi
+Thread 8 - wait for semaphore to fetch/add hi
+Thread 4 - asdasdas is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 1 - get the semaphore to fetch/add apple
+Thread 4 - search for word asdasdas
+Thread 4 - wait for semaphore to fetch/add asdasdas
+Thread 1 - apple is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add orange
+Thread 1 - search for word apple
+Thread 1 - wait for semaphore to fetch/add apple
+Thread 10 - orange is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 10 - search for word orange
+Thread 10 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add abet
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 9 - abet is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add hi
+Thread 9 - search for word abet
+Thread 9 - wait for semaphore to fetch/add abet
+Thread 8 - hi is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add asdasdas
+Thread 8 - search for word hi
+Thread 8 - wait for semaphore to fetch/add hi
+Thread 4 - asdasdas is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 1 - get the semaphore to fetch/add apple
+Thread 4 - search for word asdasdas
+Thread 4 - wait for semaphore to fetch/add asdasdas
+Thread 1 - apple is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add orange
+Thread 1 - search for word apple
+Thread 1 - wait for semaphore to fetch/add apple
+Thread 10 - orange is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 10 - search for word orange
+Thread 10 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 3 - search for word abet
+Thread 3 - wait for semaphore to fetch/add abet
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 7 - search for word hi
+Thread 7 - wait for semaphore to fetch/add hi
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 6 - search for word asdasdas
+Thread 6 - wait for semaphore to fetch/add asdasdas
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 5 - search for word apple
+Thread 5 - wait for semaphore to fetch/add apple
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add abet
+Thread 2 - search for word orange
+Thread 2 - wait for semaphore to fetch/add orange
+Thread 9 - abet is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add hi
+Thread 9 - search for word abet
+Thread 9 - wait for semaphore to fetch/add abet
+Thread 8 - hi is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add asdasdas
+Thread 8 - search for word hi
+Thread 8 - wait for semaphore to fetch/add hi
+Thread 4 - asdasdas is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 1 - get the semaphore to fetch/add apple
+Thread 4 - search for word asdasdas
+Thread 4 - wait for semaphore to fetch/add asdasdas
+Thread 1 - apple is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add orange
+Thread 1 - search for word apple
+Thread 1 - wait for semaphore to fetch/add apple
+Thread 10 - orange is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
+Thread 3 - get the semaphore to fetch/add abet
+Thread 10 - search for word orange
+Thread 10 - wait for semaphore to fetch/add orange
+Thread 3 - abet is found in the dictionary. fetching it for the client
+Thread 3 - release the semaphore
+Thread 7 - get the semaphore to fetch/add hi
+Thread 7 - hi is found in the dictionary. fetching it for the client
+Thread 7 - release the semaphore
+Thread 6 - get the semaphore to fetch/add asdasdas
+Thread 6 - asdasdas is found in the dictionary. fetching it for the client
+Thread 6 - release the semaphore
+Thread 5 - get the semaphore to fetch/add apple
+Thread 5 - apple is found in the dictionary. fetching it for the client
+Thread 5 - release the semaphore
+Thread 2 - get the semaphore to fetch/add orange
+Thread 2 - orange is found in the dictionary. fetching it for the client
+Thread 2 - release the semaphore
+Thread 9 - get the semaphore to fetch/add abet
+Thread 9 - abet is found in the dictionary. fetching it for the client
+Thread 9 - release the semaphore
+Thread 8 - get the semaphore to fetch/add hi
+Thread 8 - hi is found in the dictionary. fetching it for the client
+Thread 8 - release the semaphore
+Thread 4 - get the semaphore to fetch/add asdasdas
+Thread 4 - asdasdas is found in the dictionary. fetching it for the client
+Thread 4 - release the semaphore
+Thread 1 - get the semaphore to fetch/add apple
+Thread 1 - apple is found in the dictionary. fetching it for the client
+Thread 1 - release the semaphore
+Thread 10 - get the semaphore to fetch/add orange
+Thread 10 - orange is found in the dictionary. fetching it for the client
+Thread 10 - release the semaphore
