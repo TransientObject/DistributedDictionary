@@ -17,15 +17,15 @@ class UDPClient {
             int i = 0;
             String serverURL = "rmi://" + args[0] + "/UDPServer";
             UDPServerIntf udpServerIntf = (UDPServerIntf) Naming.lookup(serverURL);
-            while (i < 1) {
+            while (i < 5) {
                 for (String word : words) {
                     System.out.println("searching meaning for " + word);
                     System.out.println(udpServerIntf.GetMeaning(word));
                 }
                 i++;
             }
+            System.out.println(udpServerIntf.GetMeaning("#"));
         } catch (Exception e) {
-            System.out.println("Exception: " + e);
         }
     }
 }
